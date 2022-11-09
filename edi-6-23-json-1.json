@@ -1,4 +1,4 @@
-[{
+{
             "@type": "dcat:Dataset",
             "title": "2015 GSA Common Baseline Implementation Plan and CIO Assignment Plan",
             "description": "This is GSA's 2015 Common Baseline Implementation Plan and its CIO Assignment Plan per the requirements set forth in FITARA legislation.",
@@ -11644,4 +11644,3 @@
             "language": ["en-us"],
             "theme": ["Information Technology"]
         }
-    ]
