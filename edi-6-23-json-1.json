@@ -1,9 +1,4 @@
-{
-    "conformsTo": "https://project-open-data.cio.gov/v1.1/schema",
-    "describedBy": "https://project-open-data.cio.gov/v1.1/schema/catalog.json",
-    "@context": "https://project-open-data.cio.gov/v1.1/schema/catalog.jsonld",
-    "@type": "dcat:Catalog",
-    "dataset": [{
+[{
             "@type": "dcat:Dataset",
             "title": "2015 GSA Common Baseline Implementation Plan and CIO Assignment Plan",
             "description": "This is GSA's 2015 Common Baseline Implementation Plan and its CIO Assignment Plan per the requirements set forth in FITARA legislation.",
@@ -11650,4 +11645,3 @@
             "theme": ["Information Technology"]
         }
     ]
-}
